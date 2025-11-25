@@ -12,6 +12,11 @@
     classe Kernel, nos locais indicados com "A EQUIPE X DEVE IMPLEMENTAR...".
 """
 
+
+
+
+
+
 import os
 import time
 from enum import Enum
